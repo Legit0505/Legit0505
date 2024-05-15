@@ -8,11 +8,11 @@ Enggineering FTTH in PT Megavision for 3 years,
 Enggineering Air Coller at PT Doctor Coller for 2 years,
 and Production at PDAM Tirta Handayani for now.
 
-Skills
-Circuit Analysis
-Network Enggineering
-Analytical Data
-Digital Systems
+Skills :
+Circuit Analysis,
+Network Enggineering,
+Analytical Data,
+Digital Systems.
 
 Contact
 Email: aink_galau@yahoo.co.id
